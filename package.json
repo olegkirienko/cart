@@ -1,0 +1,23 @@
+{
+  "name": "cart",
+  "version": "1.0.0",
+  "description": "the simple cart",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegkirienko/cart.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olegkirienko/cart/issues"
+  },
+  "homepage": "https://github.com/olegkirienko/cart#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
